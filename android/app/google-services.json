@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058511507637",
+    "project_id": "sangdon-market-3ae08",
+    "storage_bucket": "sangdon-market-3ae08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058511507637:android:13aab651f1fe77f54c6efc",
+        "android_client_info": {
+          "package_name": "com.sangdon.fastcampus_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058511507637-n7jboof8u8ktqt849577ogqqkqu839qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoNqW6yNYsCvSL_G4sFWuRkWotWcdqxFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058511507637-n7jboof8u8ktqt849577ogqqkqu839qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
